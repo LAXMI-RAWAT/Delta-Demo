@@ -1,2 +1,2 @@
 # Delta-Demo
-this for parctices class 
+it is demo practice.
